@@ -173,7 +173,8 @@ public class ArrayGenerics<E> {
             data[i - 1] = data[i];
         }
         size--;
-        if(size==data.length/2){
+        //数组里面的元素等于数组的长度的1/4时,数组的长度缩小为原来的1/2
+        if(size==data.length/4 && data.length/2!=0){
             resize(data.length/2);
         }
         return data[index];
