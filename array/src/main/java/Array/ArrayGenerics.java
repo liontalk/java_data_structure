@@ -54,11 +54,10 @@ public class ArrayGenerics<E> {
      * @param e     添加的元素
      */
     public void add(int index, E e) {
-
         if (index < 0 || index > size) {
             throw new ArrayIndexOutOfBoundsException("Add Fail,Required index >= 0 and index <=size");
         }
-        if (index == data.length) {
+        if (size == data.length) {
             resize(2 * data.length);
         }
         for (int i = size - 1; i >= index; i--) {
@@ -174,6 +173,9 @@ public class ArrayGenerics<E> {
             data[i - 1] = data[i];
         }
         size--;
+        if(size==data.length/2){
+            resize(data.length/2);
+        }
         return data[index];
     }
 
