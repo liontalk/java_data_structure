@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6747c4e-9b56-43e5-aba2-ba939a16ca8f" name="Default Changelist" comment="" />
+    <list default="true" id="f6747c4e-9b56-43e5-aba2-ba939a16ca8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/src/main/java/Array/ArrayGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/array/src/main/java/Array/ArrayGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/array/Array/ArrayMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/Array/ArrayMain.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3493">
@@ -28,11 +33,59 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/ArrayGenerics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="197" column="11" selection-end-line="209" />
+              <folding>
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#2329#2330#0" expanded="true" />
+                <element signature="e#2361#2362#0" expanded="true" />
+                <element signature="e#2447#2448#0" expanded="true" />
+                <element signature="e#2486#2487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/array.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/ArrayMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="351">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#746#755#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,6 +99,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -53,6 +109,8 @@
         <option value="$PROJECT_DIR$/array/src/main/java/Tree/Tree.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/Array/Array.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/Array/ArrayMain.java" />
+        <option value="$PROJECT_DIR$/array/src/main/java/Array/Student.java" />
+        <option value="$PROJECT_DIR$/array/src/main/java/Array/ArrayGenerics.java" />
       </list>
     </option>
   </component>
@@ -86,6 +144,7 @@
     <option name="width" value="1040" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -144,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587279332210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587281888553" />
     <property name="last_opened_file_path" value="D:/WorkSpace/taishengjiankang_version2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -152,6 +211,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Array" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,9 +229,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayMain">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.ArrayMain" />
+      <module name="array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Student" />
       <module name="array" />
       <extension name="coverage">
         <pattern>
@@ -193,6 +270,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.ArrayMain" />
       </list>
     </recent_temporary>
@@ -207,12 +285,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587275305762</updated>
-      <workItem from="1587275307107" duration="3997000" />
+      <workItem from="1587275307107" duration="6554000" />
     </task>
+    <task id="LOCAL-00001" summary="数组的数据结构支撑泛型">
+      <created>1587281199425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587281199426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3997000" />
+    <option name="totallyTimeSpent" value="6554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -225,7 +311,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -241,7 +327,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -259,6 +345,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数组的数据结构支撑泛型" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组的数据结构支撑泛型" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
@@ -313,10 +403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/ArrayMain.java">
+    <entry file="file://$PROJECT_DIR$/array/array.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="324">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -330,6 +420,48 @@
             <element signature="e#2281#2282#0" expanded="true" />
             <element signature="e#2313#2314#0" expanded="true" />
             <element signature="e#2438#2439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/ArrayMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#746#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/Array/ArrayGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="197" column="11" selection-end-line="209" />
+          <folding>
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#2329#2330#0" expanded="true" />
+            <element signature="e#2361#2362#0" expanded="true" />
+            <element signature="e#2447#2448#0" expanded="true" />
+            <element signature="e#2486#2487#0" expanded="true" />
           </folding>
         </state>
       </provider>

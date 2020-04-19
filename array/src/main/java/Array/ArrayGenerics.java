@@ -18,7 +18,7 @@ public class ArrayGenerics<E> {
 
 
     public ArrayGenerics(int capacity) {
-        data =(E[]) new Object[capacity];
+        data = (E[]) new Object[capacity];
         size = 0;
     }
 
@@ -54,11 +54,12 @@ public class ArrayGenerics<E> {
      * @param e     添加的元素
      */
     public void add(int index, E e) {
-        if (index == data.length) {
-            throw new IllegalArgumentException("Add Fail,Array is Full!");
-        }
+
         if (index < 0 || index > size) {
             throw new ArrayIndexOutOfBoundsException("Add Fail,Required index >= 0 and index <=size");
+        }
+        if (index == data.length) {
+            resize(2 * data.length);
         }
         for (int i = size - 1; i >= index; i--) {
             data[i + 1] = data[i];
@@ -119,7 +120,7 @@ public class ArrayGenerics<E> {
      */
     public int find(int e) {
         for (int i = 0; i < size; i++) {
-            if (data[i].equals(e) ) {
+            if (data[i].equals(e)) {
                 return i;
             }
         }
@@ -190,5 +191,19 @@ public class ArrayGenerics<E> {
         }
         stringBuffer.append("]");
         return stringBuffer.toString();
+    }
+
+
+    /**
+     * 数组扩容
+     *
+     * @param newCapacity
+     */
+    private void resize(int newCapacity) {
+        E[] newData = (E[]) new Object[newCapacity];
+        for (int i = 0; i < size; i++) {
+            newData[i] = data[i];
+        }
+        data = newData;
     }
 }
