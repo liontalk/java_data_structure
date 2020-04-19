@@ -3,7 +3,7 @@ package Array;
 public class ArrayMain {
 
     public static void main(String[] args) {
-        Array array = new Array(20);
+        ArrayGenerics<Integer> array = new ArrayGenerics(20);
         for (int i = 0; i < 10; i++) {
             array.addLast(i);
         }
@@ -11,14 +11,6 @@ public class ArrayMain {
 
         array.add(3,1000);
         System.out.println(array.toString());
-
-
-
-
-
-
-
-
 
 
         array.remove(3);
