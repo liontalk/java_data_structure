@@ -57,6 +57,7 @@ public class Array {
         if (index < 0 || index > size) {
             throw new ArrayIndexOutOfBoundsException("Add Fail,Required index >= 0 and index <=size");
         }
+        //从index 之后，将后面的元素依次向后面移动一位
         for (int i = size - 1; i >= index; i--) {
             data[i + 1] = data[i];
         }
