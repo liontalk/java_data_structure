@@ -202,7 +202,7 @@ public class ArrayGenerics<E> {
      *
      * @param newCapacity
      */
-    private void resize(int newCapacity) {
+    private void  resize(int newCapacity) {
         E[] newData = (E[]) new Object[newCapacity];
         for (int i = 0; i < size; i++) {
             newData[i] = data[i];
