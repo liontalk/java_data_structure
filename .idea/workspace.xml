@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6747c4e-9b56-43e5-aba2-ba939a16ca8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/src/main/java/demo/Test100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/src/main/java/demo/Test88.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/src/main/java/demo/Test104.java" beforeDir="false" afterPath="$PROJECT_DIR$/array/src/main/java/demo/Test104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/src/main/java/demo/Test106.java" beforeDir="false" afterPath="$PROJECT_DIR$/array/src/main/java/demo/Test106.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,10 +18,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test100.java">
+        <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test106.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="435">
+              <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,9 +57,11 @@
         <option value="$PROJECT_DIR$/array/src/main/java/Array/ArrayMain.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/Array/ArrayGenerics.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/Array/Array.java" />
-        <option value="$PROJECT_DIR$/array/src/main/java/demo/Test106.java" />
-        <option value="$PROJECT_DIR$/array/src/main/java/demo/Test104.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/demo/Test100.java" />
+        <option value="$PROJECT_DIR$/array/src/main/java/demo/Test99.java" />
+        <option value="$PROJECT_DIR$/array/src/main/java/demo/Test88.java" />
+        <option value="$PROJECT_DIR$/array/src/main/java/demo/Test104.java" />
+        <option value="$PROJECT_DIR$/array/src/main/java/demo/Test106.java" />
       </list>
     </option>
   </component>
@@ -143,55 +150,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Test99" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Test100" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Test108" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="BigDecimal" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="data_data_structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="BigInteger" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +197,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590374804281" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590387121048" />
     <property name="last_opened_file_path" value="D:/WorkSpace/taishengjiankang_version2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -231,22 +224,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test100">
+  <component name="RunManager" selected="Application.Test106">
     <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.ArrayMain" />
-      <module name="array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Student" />
       <module name="array" />
       <extension name="coverage">
         <pattern>
@@ -297,6 +277,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Test99" />
+      <module name="array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.42" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.42" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -311,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test100" />
-        <item itemvalue="Application.Test104" />
         <item itemvalue="Application.Test106" />
+        <item itemvalue="Application.Test104" />
+        <item itemvalue="Application.Test99" />
+        <item itemvalue="Application.Test100" />
         <item itemvalue="Application.ArrayMain" />
-        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -333,6 +326,8 @@
       <workItem from="1587342871695" duration="2167000" />
       <workItem from="1588055338032" duration="1075000" />
       <workItem from="1590373736720" duration="1067000" />
+      <workItem from="1590376898938" duration="377000" />
+      <workItem from="1590380491958" duration="4306000" />
     </task>
     <task id="LOCAL-00001" summary="数组的数据结构支撑泛型">
       <created>1587281199425</created>
@@ -376,18 +371,31 @@
       <option name="project" value="LOCAL" />
       <updated>1590374235368</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="最小公约数">
+      <created>1590376908860</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590376908860</updated>
+    </task>
+    <task id="LOCAL-00008" summary="倒叙排列字符串">
+      <created>1590377172354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590377172354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13941000" />
+    <option name="totallyTimeSpent" value="18624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Alibaba Cloud Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15298508" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15626666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -396,11 +404,11 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" />
+      <window_info id="Alibaba Cloud Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32924107" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,10 +421,9 @@
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32924107" />
       <window_info anchor="bottom" id="MyBatis Log" order="17" />
-      <window_info anchor="right" id="Alibaba Function Compute" />
-      <window_info anchor="right" id="Alibaba Log Console" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="18" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -428,6 +435,8 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Redis Servers" order="10" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="11" />
+      <window_info anchor="right" id="Alibaba Log Console" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +449,8 @@
     <MESSAGE value="数组动态扩容" />
     <MESSAGE value="最小公倍数" />
     <MESSAGE value="最小公约数" />
-    <option name="LAST_COMMIT_MESSAGE" value="最小公约数" />
+    <MESSAGE value="倒叙排列字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="倒叙排列字符串" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
@@ -538,27 +548,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test104.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="408">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test106.java">
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test108.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="171">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test100.java">
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test99.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/demo/Test106.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
