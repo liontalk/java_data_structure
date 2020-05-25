@@ -2,15 +2,19 @@ package demo;
 
 import java.util.Scanner;
 
+/**
+ * 最小公倍数
+ */
 public class Test106 {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        int a = scanner.nextInt();
-        int b = scanner.nextInt();
-        System.out.println(getMinMult(a,b));
+//        Scanner scanner = new Scanner(System.in);
+//        int a = scanner.nextInt();
+//        int b = scanner.nextInt();
+//        System.out.println(getMinMult(a,b));
 
+        System.out.println(12%12);
     }
 
 
